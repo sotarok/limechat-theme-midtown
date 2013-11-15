@@ -14,16 +14,9 @@
         }
     },
     {
-        "name": "fivestar",
+        "name": "cocoiti",
         "data": {
-            "nick": "fivestar",
-            "image": "http://res.cloudinary.com/riaf/image/facebook/w_25,h_25,c_thumb,g_face,d_contacts_kxvdl7.png/katsuhiro.ogawa.png"
-        }
-    },
-    {
-        "name": "cocoitiban",
-        "data": {
-            "nick": "cocoitiban",
+            "nick": "cocoiti",
             "image": "http://res.cloudinary.com/riaf/image/facebook/w_25,h_25,c_thumb,g_face,d_contacts_kxvdl7.png/cocoiti.png"
         }
     },
